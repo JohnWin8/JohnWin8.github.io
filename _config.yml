@@ -10,7 +10,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 #
 
-title: John Winnett
+title: "John Winnett"
 email: jawinnet@uwaterloo.ca
 description: >- # this means to ignore newlines until "baseurl:"
   This is the personal website of a Data Science student at the University of Waterloo.
