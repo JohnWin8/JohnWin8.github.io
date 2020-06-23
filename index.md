@@ -9,5 +9,5 @@ title: "John Winnett"
 </head>
 
 <body> 
-    <p> Hello World </p>
+    <h1> {{title}} </h1>
 </body>
