@@ -2,7 +2,7 @@
 
 layout: home
 title: "John Winnett"
-permalink: ""
+permalink: "/me"
 ---
 
 <head>
