@@ -10,7 +10,7 @@ url: "https://johnwin8.github.io" # the base hostname & protocol for your site, 
 github_username:  JohnWin8
 
 # Things to include in html
-logo: false
+logo: /images/old_meme.jpg
 show_downloads: false 
 
 # Build Settings
