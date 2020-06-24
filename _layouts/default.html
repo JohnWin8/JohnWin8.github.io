@@ -38,19 +38,19 @@
         </ul>
         {% endif %}
       </header>
-      <p class="view">
-          Where to find me: 
-          <ul>
-            <li><a href="{{ site.linkedin_page }}"><strong>Linkedin</strong></a></li>
-            <li><a href="{{ site.instagram_page }}"><strong>Instagram</strong></a></li>
-          </ul>
-        </p>
       <section>
 
       {{ content }}
 
       </section>
       <footer>
+        <p class="view">
+          Where to find me:
+          <ul>
+            <li><a href="{{ site.linkedin_page }}" target="_blank"><strong>Linkedin</strong></a></li>
+            <li><a href="{{ site.instagram_page }}" target="_blank"><strong>Instagram</strong></a></li>
+          </ul>
+        </p>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}

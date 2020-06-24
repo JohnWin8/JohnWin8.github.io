@@ -10,7 +10,7 @@ linkedin_page: "https://www.linkedin.com/in/john-winnett-718627160/"
 instagram_page: ""
 
 # Things to include in html
-logo: false # /assest/img/ ...
+logo: /assets/img/logo_tmp_holder.png # /assets/img/ ...
 show_downloads: false 
 
 # Build Settings
