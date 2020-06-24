@@ -6,6 +6,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://johnwin8.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  JohnWin8
+linkedin_page: "https://www.linkedin.com/in/john-winnett-718627160/"
+instagram_page: ""
 
 # Things to include in html
 logo: false # /assest/img/ ...
